@@ -1,4 +1,5 @@
-#Exercicio 2  Elabore um programa que escreve seu nome na primeira linha, o estado em que você mora na segunda, e seu município na terceira.
+2. Etiqueta - Elabore um programa que imprimaseu nome na primeira linha, o estado em que você mora na segunda, e seu município na terceira.
+
 
 print("Walker Miller")
 print("RJ")
